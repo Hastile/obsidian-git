@@ -1,0 +1,416 @@
+{
+  "main": {
+    "id": "f4381ee527c27a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc119b45250d64dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad30ae7cb172a745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개념 설명 영상/캐릭터가 브랜드인 이유.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "캐릭터가 브랜드인 이유"
+            }
+          },
+          {
+            "id": "85c8d4f268a3fa21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개념 설명 영상/캐릭터가 브랜드인 이유.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "캐릭터가 브랜드인 이유"
+            }
+          },
+          {
+            "id": "04e1df0ca8b2bbe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "원피스/밀짚모자 일당으로 알아보는 포지셔닝.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "밀짚모자 일당으로 알아보는 포지셔닝"
+            }
+          },
+          {
+            "id": "6a2e27121fe60be8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "카오스 제로 나이트메어/카제나는 처음부터 잘못됐다.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "카제나는 처음부터 잘못됐다"
+            }
+          },
+          {
+            "id": "d0c65b83a55eb3fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개념 설명 영상/캐릭터의 컨셉과 톤앤매너.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "캐릭터의 컨셉과 톤앤매너"
+            }
+          },
+          {
+            "id": "135da8ef57610744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개념 설명 영상/색상 이론/머리 색과 눈 색으로 알아보는 캐릭터.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "머리 색과 눈 색으로 알아보는 캐릭터"
+            }
+          },
+          {
+            "id": "4fd86ff17633fdc9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
+            "id": "7a9116760694419d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "체인소맨/덴지 - 체인소맨이라는 직관적인 컨셉.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "덴지 - 체인소맨이라는 직관적인 컨셉"
+            }
+          },
+          {
+            "id": "bb93bdf241bc51e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "캐릭터 일반/성우 인생 캐릭터.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "성우 인생 캐릭터"
+            }
+          },
+          {
+            "id": "7877ae092d2e7561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개념 설명 영상/캐릭터 기획/캐릭터의 STP와 페르소나.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "캐릭터의 STP와 페르소나"
+            }
+          },
+          {
+            "id": "116d072acd61c2e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "체인소맨/(shorts) 파워의 마케팅 전략.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(shorts) 파워의 마케팅 전략"
+            }
+          },
+          {
+            "id": "c3d073a21fb90ac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "체인소맨/덴지 - 체인소맨이라는 직관적인 컨셉.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "덴지 - 체인소맨이라는 직관적인 컨셉"
+            }
+          },
+          {
+            "id": "384586252696bd48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "체인소맨/덴지 - 체인소맨이라는 직관적인 컨셉 (가칭).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "덴지 - 체인소맨이라는 직관적인 컨셉 (가칭)"
+            }
+          },
+          {
+            "id": "5cdd9cb261811943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개념 설명 영상/캐릭터 기획/캐릭터의 비전.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "캐릭터의 비전"
+            }
+          },
+          {
+            "id": "9e3d111ae77c5b8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "주술회전/(shorts) 마키 vs 토우지.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(shorts) 마키 vs 토우지"
+            }
+          },
+          {
+            "id": "438467fe7a651579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개념 설명 영상/캐릭터 디자인/캐릭터의 브랜드 아이덴티티.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "캐릭터의 브랜드 아이덴티티"
+            }
+          }
+        ],
+        "currentTab": 15
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c183052237ff6a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3022270249252fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bbbde56e8d03d3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5c59b31845652088",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "391cdad57872551b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ababe3c2b1c22d1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff32dc2f5d3e7ab3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71a8a5f549438360",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "개념 설명 영상/캐릭터의 포지셔닝.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 캐릭터의 포지셔닝"
+            }
+          },
+          {
+            "id": "8d3eeb8c4e527399",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "개념 설명 영상/캐릭터의 포지셔닝.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 캐릭터의 포지셔닝"
+            }
+          },
+          {
+            "id": "30c6834f7148777a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "63d6246ceb622405",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "개념 설명 영상/캐릭터의 포지셔닝.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 캐릭터의 포지셔닝"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "438467fe7a651579",
+  "lastOpenFiles": [
+    "개념 설명 영상/캐릭터 기획/캐릭터의 경쟁.md",
+    "개념 설명 영상/캐릭터 디자인/캐릭터의 브랜드 아이덴티티.md",
+    "개념 설명 영상/캐릭터 기획/캐릭터의 STP와 페르소나.md",
+    "개념 설명 영상/캐릭터 디자인/캐릭터의 컨셉과 톤앤매너.md",
+    "개념 설명 영상/캐릭터가 브랜드인 이유.md",
+    "주술회전/(shorts) 나나미의 이름의 비밀.md",
+    "주술회전/(shorts) 마키 vs 토우지.md",
+    "주술회전/(shorts) 쵸소우는 형제애의 화신이다.md",
+    "개념 설명 영상/캐릭터 디자인",
+    "개념 설명 영상/캐릭터 기획/캐릭터의 비전.md",
+    "개념 설명 영상/캐릭터 기획/캐릭터의 STP와 페르소나.pdf",
+    "개념 설명 영상/캐릭터 기획/캐릭터가 브랜드인 이유.pdf",
+    "개념 설명 영상/캐릭터 기획/캐릭터의 비전.pdf",
+    "개념 설명 영상/색상 이론/머리 색과 눈 색으로 알아보는 캐릭터.md",
+    "개념 설명 영상/캐릭터 기획/캐릭터의 포지셔닝.md",
+    "개념 설명 영상/캐릭터 기획/캐릭터의 포지셔닝.pdf",
+    "개념 설명 영상/캐릭터 기획/캐릭터의 경쟁.pdf",
+    "체인소맨/덴지 - 체인소맨이라는 직관적인 컨셉 (가칭).md",
+    "진격의 거인/리바이 아커만 - 세계관 최강자의 본보기.md",
+    "개념 설명 영상.canvas",
+    "데스노트/3분으로 알아보는 데스노트 제작 과정.md",
+    "주술회전",
+    "캐릭터 일반/스핔이 네르지 마세요오옥.md",
+    "데스노트",
+    "드래곤볼/(shorts) 토리야마 작가가 초사이어인을 노란색으로 설정한 이유.md",
+    "캐릭터 일반/(shorts) 분량 조절 실패한 진 주인공들.md",
+    "드래곤볼/(shorts) 토리야마 작가가 초사이어인을 노란색으로 설정한 이유",
+    "드래곤볼",
+    "체인소맨/(shorts) 파워의 마케팅 전략.md",
+    "캐릭터 일반/성우 인생 캐릭터.md",
+    "원피스/밀짚모자 일당으로 알아보는 포지셔닝.md",
+    "카오스 제로 나이트메어/카제나는 처음부터 잘못됐다.md"
+  ]
+}
